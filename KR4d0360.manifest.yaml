@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR4d0360_000.yaml, hash: 'sha256:af169d417fc15bf418d29a61c15889adf5fd7c3e526961f5df544044b9f796fa'}
   - {seq: 1, filename: KR4d0360_001.yaml, hash: 'sha256:0998e89edaf90304c36072c9bffdbf88e9c9c78a207937e799032e15301dc012'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0360_000.markers.yaml, hash: 'sha256:e67172f30b2d83cfc8d264098816cdecab0c99dff699e7ca6dd2a8cc85e8c147'}
+  - {seq: 0, role: markers, filename: assets/KR4d0360_000.markers.yaml, hash: 'sha256:d6212085bccc0619edc71ec56362faa910af272383981b34b05186637a7714a7'}
   - {seq: 1, role: markers, filename: assets/KR4d0360_001.markers.yaml, hash: 'sha256:798d798e17f4bbe46e547ba4a9e39e97f70e62a5a7008d17456042de728316fc'}
 table_of_contents:
 - ref:
@@ -56,7 +56,7 @@ table_of_contents:
   label: 孝詩
   type: section
   level: 1
-hash: sha256:106574d69cdcefddd5d6822ab12fcff1779983e88dea57ff2b2cd5f9541cfc23
+hash: sha256:a660f341e29d3a3f4f7c54218ef34efbbbb39e99cb2a9f1ab777bd1d1cea7244
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
